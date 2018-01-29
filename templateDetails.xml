@@ -68,8 +68,8 @@ Introducing ProtostarPlusEighteen (PPE), the 2018 Protostarplus template based o
 		<position>top-bar-content</position>
 	</positions>
 	<languages folder="language">
-		<language tag="en-GB">en-GB/en-GB.tpl_protostarplus.ini</language>
-		<language tag="en-GB">en-GB/en-GB.tpl_protostarplus.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_protostarplus-eighteen.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_protostarplus-eighteen.sys.ini</language>
 	</languages>
 	<config>
 		<fields name="params">
